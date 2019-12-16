@@ -1,2 +1,4 @@
 # hello-world
-Repository
+Repository.
+My name is Kristian.
+I am from Slovakia.
